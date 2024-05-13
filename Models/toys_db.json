@@ -1,0 +1,106 @@
+[
+    {
+        "id": "t1",
+        "nome_prodotto": "Giocattolo a forma di topo per gatti",
+        "categoria" : {
+            "nome": "gatti",
+            "icona": "cat.jpg"
+        },
+        "icona_immagine": "topo_gatto.jpg",
+        "prezzo": 5.99,
+        "stock": 50,
+        "dimensioni": "Piccolo",
+        "colore": "Grigio"
+    },
+    {
+        "id": "t2",
+        "nome_prodotto": "Pallina rimbalzante per gatti",
+        "categoria" : {
+            "nome": "gatti",
+            "icona": "cat.jpg"
+        },
+        "icona_immagine": "pallina_gatto.jpg",
+        "prezzo": 3.49,
+        "stock": 30,
+        "dimensioni": "Piccolo",
+        "colore": "Arancione"
+    },
+    {
+        "id": "t3",
+        "nome_prodotto": "Osso di gomma per cani",
+        "categoria" : {
+            "nome": "cani",
+            "icona": "dog.jpg"
+        },
+        "icona_immagine": "osso_cane.jpg",
+        "prezzo": 8.99,
+        "stock": 40,
+        "dimensioni": "Medio",
+        "colore": "Rosso"
+    },
+    {
+        "id": "t4",
+        "nome_prodotto": "Frisbee volante per cani",
+        "categoria" : {
+            "nome": "cani",
+            "icona": "dog.jpg"
+        },
+        "icona_immagine": "frisbee_cane.jpg",
+        "prezzo": 6.49,
+        "stock": 25,
+        "dimensioni": "Grande",
+        "colore": "Blu"
+    },
+    {
+        "id": "t5",
+        "nome_prodotto": "Altalena per uccelli",
+        "categoria" : {
+            "nome": "uccelli",
+            "icona": "bird.jpg"
+        },
+        "icona_immagine": "altalena_uccelli.jpg",
+        "prezzo": 4.99,
+        "stock": 20,
+        "dimensioni": "Piccola",
+        "colore": "Verde"
+    },
+    {
+        "id": "t6",
+        "nome_prodotto": "Scala a corda per uccelli",
+        "categoria" : {
+            "nome": "uccelli",
+            "icona": "bird.jpg"
+        },
+        "icona_immagine": "scala_uccelli.jpg",
+        "prezzo": 7.99,
+        "stock": 15,
+        "dimensioni": "Media",
+        "colore": "Marrone"
+    },
+    {
+        "id": "t7",
+        "nome_prodotto": "Castello sommerso per pesci",
+        "categoria" : {
+            "nome": "pesci",
+            "icona": "fish.jpg"
+        },
+        "icona_immagine": "castello_pesci.jpg",
+        "prezzo": 9.99,
+        "stock": 35,
+        "dimensioni": "Grande",
+        "colore": "Blu"
+    },
+    {
+        "id": "t8",
+        "nome_prodotto": "Caverna in ceramica per pesci",
+        "categoria" : {
+            "nome": "pesci",
+            "icona": "fish.jpg"
+        },
+        "icona_immagine": "caverna_pesci.jpg",
+        "prezzo": 12.49,
+        "stock": 28,
+        "dimensioni": "Media",
+        "colore": "Rosso"
+    }
+]

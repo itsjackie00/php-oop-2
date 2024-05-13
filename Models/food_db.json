@@ -1,0 +1,106 @@
+[
+    {
+        "id" : "f1",
+        "nome_prodotto" : "Pate per gatti",
+        "categoria" : {
+            "nome": "gatti",
+            "icona": "cat.jpg"
+        },
+        "icona_immagine" : "pate_gatti.jpg",
+        "prezzo" : 3.99,
+        "stock" : 100,
+        "peso" : 500,
+        "tipo":"umido"
+    },
+    {
+        "id" : "f2",
+        "nome_prodotto" : "Croccantini per gatti",
+        "categoria" : {
+            "nome": "gatti",
+            "icona": "cat.jpg"
+        },
+        "icona_immagine" : "croccantini_gatti.jpg",
+        "prezzo" : 9.99,
+        "stock" : 50,
+        "peso" : 1000,
+        "tipo" : "secco"
+    },
+    {
+        "id" : "f3",
+        "nome_prodotto" : "Bocconcini per cani",
+        "categoria" : {
+            "nome": "cani",
+            "icona": "dog.jpg"
+        },
+        "icona_immagine" : "bocconcini_cani.jpg",
+        "prezzo" : 5.49,
+        "stock" : 80,
+        "peso" : 750,
+        "tipo" : "secco"
+    },
+    {
+        "id" : "f4",
+        "nome_prodotto" : "Snack per cani",
+        "categoria" : {
+            "nome": "cani",
+            "icona": "dog.jpg"
+        },
+        "icona_immagine" : "snack_cani.jpg",
+        "prezzo" : 7.99,
+        "stock" : 60,
+        "peso" : 250,
+        "tipo" : "secco"
+    },
+    {
+        "id" : "f5",
+        "nome_prodotto" : "Semi per uccelli",
+        "categoria" : {
+            "nome": "uccelli",
+            "icona": "bird.jpg"
+        },
+        "icona_immagine" : "semi_uccelli.jpg",
+        "prezzo" : 5.49,
+        "stock" : 40,
+        "peso" : 200,
+        "tipo" : "secco"
+    },
+    {
+        "id" : "f6",
+        "nome_prodotto" : "Granuli per uccelli",
+        "categoria" : {
+            "nome": "uccelli",
+            "icona": "bird.jpg"
+        },
+        "icona_immagine" : "granuli_uccelli.jpg",
+        "prezzo" : 8.99,
+        "stock" : 30,
+        "peso" : 150,
+        "tipo" : "secco"
+    },
+    {
+        "id" : "f7",
+        "nome_prodotto" : "Granuli per pesci",
+        "categoria" : {
+            "nome": "pesci",
+            "icona": "fish.jpg"
+        },
+        "icona_immagine" : "granuli_pesci.jpg",
+        "prezzo" : 4.99,
+        "stock" : 70,
+        "peso" : 300,
+        "tipo" : "secco"
+    },
+    {
+        "id" : "f8",
+        "nome_prodotto" : "Pallettoni per pesci",
+        "categoria" : {
+            "nome": "pesci",
+            "icona": "fish.jpg"
+        },
+        "icona_immagine" : "pallettoni_pesci.jpg",
+        "prezzo" : 6.99,
+        "stock" : 50,
+        "peso" : 400,
+        "tipo" : "secco"
+    }
+]
